@@ -1,1 +1,4 @@
 .vscode/
+battle_rap_classificator/resources/audio_samples/*.flac
+battle_rap_classificator/resources/audio_samples/*.wav
+battle_rap_classificator/resources/audio_samples/*.wav

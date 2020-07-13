@@ -1,0 +1,9 @@
+README.md
+setup.py
+battle_rap_classificator/__init__.py
+battle_rap_classificator/__main__.py
+battle_rap_classificator/module.py
+battle_rap_classificator.egg-info/PKG-INFO
+battle_rap_classificator.egg-info/SOURCES.txt
+battle_rap_classificator.egg-info/dependency_links.txt
+battle_rap_classificator.egg-info/top_level.txt
